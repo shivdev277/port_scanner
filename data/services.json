@@ -1,0 +1,162 @@
+{
+  "20": {
+    "service": "FTP-DATA",
+    "description": "File Transfer Protocol - Data"
+  },
+  "21": {
+    "service": "FTP",
+    "description": "File Transfer Protocol - Control"
+  },
+  "22": {
+    "service": "SSH",
+    "description": "Secure Shell"
+  },
+  "23": {
+    "service": "Telnet",
+    "description": "Telnet Protocol"
+  },
+  "25": {
+    "service": "SMTP",
+    "description": "Simple Mail Transfer Protocol"
+  },
+  "53": {
+    "service": "DNS",
+    "description": "Domain Name System"
+  },
+  "67": {
+    "service": "DHCP",
+    "description": "Dynamic Host Configuration Protocol - Server"
+  },
+  "68": {
+    "service": "DHCP",
+    "description": "Dynamic Host Configuration Protocol - Client"
+  },
+  "69": {
+    "service": "TFTP",
+    "description": "Trivial File Transfer Protocol"
+  },
+  "80": {
+    "service": "HTTP",
+    "description": "Hypertext Transfer Protocol"
+  },
+  "110": {
+    "service": "POP3",
+    "description": "Post Office Protocol v3"
+  },
+  "123": {
+    "service": "NTP",
+    "description": "Network Time Protocol"
+  },
+  "135": {
+    "service": "MSRPC",
+    "description": "Microsoft RPC"
+  },
+  "137": {
+    "service": "NetBIOS",
+    "description": "NetBIOS Name Service"
+  },
+  "138": {
+    "service": "NetBIOS",
+    "description": "NetBIOS Datagram Service"
+  },
+  "139": {
+    "service": "NetBIOS",
+    "description": "NetBIOS Session Service"
+  },
+  "143": {
+    "service": "IMAP",
+    "description": "Internet Message Access Protocol"
+  },
+  "161": {
+    "service": "SNMP",
+    "description": "Simple Network Management Protocol"
+  },
+  "162": {
+    "service": "SNMP-TRAP",
+    "description": "SNMP Trap"
+  },
+  "389": {
+    "service": "LDAP",
+    "description": "Lightweight Directory Access Protocol"
+  },
+  "443": {
+    "service": "HTTPS",
+    "description": "HTTP Secure"
+  },
+  "445": {
+    "service": "SMB",
+    "description": "Server Message Block"
+  },
+  "465": {
+    "service": "SMTPS",
+    "description": "SMTP Secure"
+  },
+  "514": {
+    "service": "Syslog",
+    "description": "System Logging Protocol"
+  },
+  "587": {
+    "service": "SMTP",
+    "description": "SMTP - Message Submission"
+  },
+  "636": {
+    "service": "LDAPS",
+    "description": "LDAP Secure"
+  },
+  "993": {
+    "service": "IMAPS",
+    "description": "IMAP Secure"
+  },
+  "995": {
+    "service": "POP3S",
+    "description": "POP3 Secure"
+  },
+  "1433": {
+    "service": "MSSQL",
+    "description": "Microsoft SQL Server"
+  },
+  "1521": {
+    "service": "Oracle",
+    "description": "Oracle Database"
+  },
+  "3306": {
+    "service": "MySQL",
+    "description": "MySQL Database"
+  },
+  "3389": {
+    "service": "RDP",
+    "description": "Remote Desktop Protocol"
+  },
+  "5432": {
+    "service": "PostgreSQL",
+    "description": "PostgreSQL Database"
+  },
+  "5900": {
+    "service": "VNC",
+    "description": "Virtual Network Computing"
+  },
+  "6379": {
+    "service": "Redis",
+    "description": "Redis Database"
+  },
+  "8000": {
+    "service": "HTTP-Alt",
+    "description": "HTTP Alternate"
+  },
+  "8080": {
+    "service": "HTTP-Proxy",
+    "description": "HTTP Alternate/Proxy"
+  },
+  "8443": {
+    "service": "HTTPS-Alt",
+    "description": "HTTPS Alternate"
+  },
+  "9200": {
+    "service": "Elasticsearch",
+    "description": "Elasticsearch REST API"
+  },
+  "27017": {
+    "service": "MongoDB",
+    "description": "MongoDB Database"
+  }
+}
